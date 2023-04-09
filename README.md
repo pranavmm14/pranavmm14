@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My GitHub Profile</title>
-  </head>
   <body>
     <header>
       <h1>Welcome to My GitHub Profile <span>👋</span></h1>
@@ -35,14 +31,14 @@ Here are some ideas to get you started:
         <li><a href="#">Computerised Snake and Ladder Game</a>: An offline computerised Snake and Ladder Game designed in Python programming Language</li>
         <li><a href="https://github.com/pranavmm14/flask-project-blog-page">PM's Blog</a>: A demo blog website in python Flask</li>
       </ul>
-      /*<p>You can find more of my projects on my <a href="#">personal website/blog/portfolio</a> 🌐.</p>*/
+      <!--<p>You can find more of my projects on my <a href="#">personal website/blog/portfolio</a> 🌐.</p>-->
     </section>
     <section>
       <h2>My Contributions <span>🤝</span></h2>
       <ul>
         <li><a href="https://github.com/pranavmm14/45_Solution-Makers"> VIIT ACM DevCup Hack-a-thon </a></li>
-        /*<li><a href="#">Contribution 2</a>: Brief description of the contribution</li>
-        <li><a href="#">Contribution 3</a>: Brief description of the contribution</li>*/
+        <!--<li><a href="#">Contribution 2</a>: Brief description of the contribution</li>
+        <li><a href="#">Contribution 3</a>: Brief description of the contribution</li>-->
       </ul>
     </section>
     <section>
