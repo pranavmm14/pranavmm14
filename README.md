@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <section>
       <h2>My Projects <span>🚀</span></h2>
       <ul>
-        <li><a href="#">Acunetix Attendance Manager</a>: QR-code scanning based attendance desktop app make use of OpenCV, Google Sheets API, Pandas module</li>
+        <li><a href="https://github.com/pranavmm14/Acunetix-Attendance-Manager">Acunetix Attendance Manager</a>: QR-code scanning based attendance desktop app make use of OpenCV, Google Sheets API, Pandas module</li>
         <li><a href="#">Computerised Snake and Ladder Game</a>: An offline computerised Snake and Ladder Game designed in Python programming Language</li>
         <li><a href="https://github.com/pranavmm14/flask-project-blog-page">PM's Blog</a>: A demo blog website in python Flask</li>
       </ul>
