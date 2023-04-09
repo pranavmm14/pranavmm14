@@ -43,7 +43,10 @@ Here are some ideas to get you started:
     </section>
     <section>
       <h2>Get in Touch <span>📲</span></h2>
-      <p>If you have any questions, comments, or just want to say hi, feel free to reach out to me. You can contact me through my <a href="mailTo:pranavmehe14@gmail.com">E-mail</a> 🌐, or you can connect with me on <a href="https://www.linkedin.com/in/pranav-mehendale-287730212">LinkedIn</a> 💼 or <a href="https://twitter.com/PM_Mehendale">Twitter</a> 🐦. I am always happy to chat about programming, technology, and anything in between.</p>
+      <p>If you have any questions, comments, or just want to say hi, feel free to reach out to me. <br>
+        You can contact me through <br>🌐<a href="mailTo:pranavmehe14@gmail.com">My E-mail</a> <br>
+        <a href="https://twitter.com/PM_Mehendale"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30">Twitter/PM_Mehendale</a> <br>
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"> Connect with me on <a href="https://www.linkedin.com/in/pranav-mehendale-287730212">LinkedIn</a> <br>I am always happy to chat about programming, technology, and anything in between.</p>
     </section>
   </body>
 </html>
