@@ -48,21 +48,21 @@ Here are some ideas to get you started:
         <table>
           <tr>
             <td align="center">
-              <a href="mailTo:pranavmehe14@gmail.com" target="_blank">
+              <a href="mailTo:pranavmehe14@gmail.com" target="_blank" rel="noopener">
                 <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" width="30" height="30">
                 <br>
                 Gmail
               </a>
             </td>
             <td align="center">
-              <a href="https://www.linkedin.com/in/pranav-mehendale-287730212" target="_blank">
+              <a href="https://www.linkedin.com/in/pranav-mehendale-287730212" target="_blank" rel="noopener">
                 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
                 <br>
                 LinkedIn
               </a>
             </td>
             <td align="center">
-              <a href="https://twitter.com/PM_Mehendale" target="_blank">
+              <a href="https://twitter.com/PM_Mehendale" target="_blank" rel="noopener">
                 <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30">
                 <br>
                 Twitter
