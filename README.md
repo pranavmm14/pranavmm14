@@ -45,10 +45,10 @@ Here are some ideas to get you started:
       <h2>Get in Touch <span>📲</span></h2>
       <p>If you have any questions, comments, or just want to say hi, feel free to reach out to me. <br>
       You can contact me through: <br>
-        <ul style="list-style:none; display:inline-block;">
+        <ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center;>
           <li style="display:inline-block; margin-right:20px;">
             <a href="mailto:pranavmehe14@gmail.com">
-              <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30">
+              <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30">
             </a>
           </li>
           <li style="display:inline-block; margin-right:20px;">
