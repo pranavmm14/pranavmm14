@@ -37,14 +37,6 @@ Here are some ideas to get you started:
       <!--<p>You can find more of my projects on my <a href="#">personal website/blog/portfolio</a> 🌐.</p>-->
     </section>
     <section>
-      <h2>My Contributions <span>🤝</span></h2>
-      <ul>
-        <li><a href="https://github.com/pranavmm14/45_Solution-Makers"> VIIT ACM DevCup Hack-a-thon </a></li>
-        <!--<li><a href="#">Contribution 2</a>: Brief description of the contribution</li>
-        <li><a href="#">Contribution 3</a>: Brief description of the contribution</li>-->
-      </ul>
-    </section>
-    <section>
       <h2>Get in Touch <span>📲</span></h2>
       <p>If you have any questions, comments, or just want to say hi, feel free to reach out to me. <br>
         You can contact me through: <br>
@@ -75,6 +67,14 @@ Here are some ideas to get you started:
         </table>
         <br>I am always happy to chat about programming, technology, and anything in between.
       </p>
+    </section>
+    <section>
+      <h2>My Contributions <span>🤝</span></h2>
+      <ul>
+        <li><a href="https://github.com/pranavmm14/45_Solution-Makers"> VIIT ACM DevCup Hack-a-thon </a></li>
+        <!--<li><a href="#">Contribution 2</a>: Brief description of the contribution</li>
+        <li><a href="#">Contribution 3</a>: Brief description of the contribution</li>-->
+      </ul>
     </section>
 
 
