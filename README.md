@@ -41,30 +41,34 @@ Here are some ideas to get you started:
         <li><a href="#">Contribution 3</a>: Brief description of the contribution</li>-->
       </ul>
     </section>
-    <section>
-      <h2>Get in Touch <span>📲</span></h2>
-      <p>If you have any questions, comments, or just want to say hi, feel free to reach out to me. <br>
-      You can contact me through: <br>
-        <ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center;>
-          <li style="display:inline-block; margin-right:20px;">
-            <a href="mailto:pranavmehe14@gmail.com">
-              <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30">
-            </a>
-          </li>
-          <li style="display:inline-block; margin-right:20px;">
-            <a href="https://twitter.com/PM_Mehendale">
-              <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30">
-            </a>
-          </li>
-          <li style="display:inline-block;">
-            <a href="https://www.linkedin.com/in/pranav-mehendale-287730212">
-              <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
-            </a>
-          </li>
-        </ul>
+   <section>
+     <h2>Get in Touch <span>📲</span></h2>
+     <p>If you have any questions, comments, or just want to say hi, feel free to reach out to me. <br>
+       You can contact me through: <br>
+       <ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center;">
+         <li style="text-align: center; margin: 10px;">
+           <a href="mailto:pranavmehe14@gmail.com">
+             <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" width="30" height="30">
+             <br>Gmail
+           </a>
+         </li>
+         <li style="text-align: center; margin: 10px;">
+           <a href="https://twitter.com/PM_Mehendale">
+             <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30">
+             <br>Twitter
+           </a>
+         </li>
+         <li style="text-align: center; margin: 10px;">
+           <a href="https://www.linkedin.com/in/pranav-mehendale-287730212">
+             <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
+             <br>LinkedIn
+           </a>
+         </li>
+       </ul>
         <br>I am always happy to chat about programming, technology, and anything in between.
-      </p>
+     </p>
     </section>
+
   </body>
 </html>
 
