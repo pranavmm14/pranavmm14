@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 <!DOCTYPE html>
 <html>
+  <link rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-828d0f43.css">
+  <link rel="stylesheet" href="https://github.githubassets.com/assets/site-84e74259.css">
+  <link rel="stylesheet" href="https://github.githubassets.com/assets/github-fc96d9bc.css">
   <body>
     <header>
       <h1>Welcome to My GitHub Profile <span>👋</span></h1>
@@ -55,14 +58,14 @@ Here are some ideas to get you started:
               </a>
             </td>
             <td align="center">
-              <a href="https://www.linkedin.com/in/pranav-mehendale-287730212" target="_blank" rel="noopener">
+              <a href="https://www.linkedin.com/in/pranav-mehendale-287730212" onclick="window.open(this.href,'_blank');return false;">
                 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
                 <br>
                 LinkedIn
               </a>
             </td>
             <td align="center">
-              <a href="https://twitter.com/PM_Mehendale" target="_blank" rel="noopener">
+              <a href="https://twitter.com/PM_Mehendale" rel="noopener">
                 <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30">
                 <br>
                 Twitter
