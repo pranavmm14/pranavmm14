@@ -31,7 +31,7 @@ Here are some ideas to get you started:
       <h2>My Projects <span>🚀</span></h2>
       <ul>
         <li><a href="https://github.com/pranavmm14/Acunetix-Attendance-Manager">Acunetix Attendance Manager</a>: QR-code scanning based attendance desktop app make use of OpenCV, Google Sheets API, Pandas module</li>
-        <li><a href="#">Computerised Snake and Ladder Game</a>: An offline computerised Snake and Ladder Game designed in Python programming Language</li>
+        <li><a href="https://github.com/pranavmm14/adypu-python-workshop">Python Game Development Workshop</a>: Delievered a 3-days comprehensive Game Development Workshop for 1st Year Students of Ajeenkya D Y Patil University </li>
         <li><a href="https://github.com/pranavmm14/flask-project-blog-page">PM's Blog</a>: A demo blog website in python Flask</li>
       </ul>
       <!--<p>You can find more of my projects on my <a href="#">personal website/blog/portfolio</a> 🌐.</p>-->
@@ -67,14 +67,6 @@ Here are some ideas to get you started:
         </table>
         <br>I am always happy to chat about programming, technology, and anything in between.
       </p>
-    </section>
-    <section>
-      <h2>My Contributions <span>🤝</span></h2>
-      <ul>
-        <li><a href="https://github.com/pranavmm14/45_Solution-Makers"> VIIT ACM DevCup Hack-a-thon </a></li>
-        <!--<li><a href="#">Contribution 2</a>: Brief description of the contribution</li>
-        <li><a href="#">Contribution 3</a>: Brief description of the contribution</li>-->
-      </ul>
     </section>
 
 
