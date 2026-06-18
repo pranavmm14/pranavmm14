@@ -1,75 +1,65 @@
 <!--
-**pranavmm14/pranavmm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**pranavmm14/pranavmm14** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-<!DOCTYPE html>
-<html>
-  <link rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-828d0f43.css">
-  <link rel="stylesheet" href="https://github.githubassets.com/assets/site-84e74259.css">
-  <link rel="stylesheet" href="https://github.githubassets.com/assets/github-fc96d9bc.css">
-  <body>
-    <header>
-      <h1>Welcome to My GitHub Profile <span>👋</span></h1>
-      <p>Hi there! My name is Pranav Mehendale, and I am excited to share my passion for programming and software development with you. This GitHub profile is a collection of some of my personal projects and contributions to the open-source community.</p>
-    </header>
-    <section>
-      <h2>About Me <span>🙋‍♂️</span></h2>
-      <p>I am a Computer Engineering Student based in Pune,Maharastra, with experience in Python development. I am passionate about learing Data Analytics and Buisness Intelligence, and I enjoy exploring new technologies and tools to create innovative solutions.</p>
-    </section>
-    <section>
-      <h2>My Projects <span>🚀</span></h2>
-      <ul>
-        <li><a href="https://github.com/pranavmm14/Acunetix-Attendance-Manager">Acunetix Attendance Manager</a>: QR-code scanning based attendance desktop app make use of OpenCV, Google Sheets API, Pandas module</li>
-        <li><a href="https://github.com/pranavmm14/adypu-python-workshop">Python Game Development Workshop</a>: Delievered a 3-days comprehensive Game Development Workshop for 1st Year Students of Ajeenkya D Y Patil University </li>
-        <li><a href="https://github.com/pranavmm14/flask-project-blog-page">PM's Blog</a>: A demo blog website in python Flask</li>
-      </ul>
-      <!--<p>You can find more of my projects on my <a href="#">personal website/blog/portfolio</a> 🌐.</p>-->
-    </section>
-    <section>
-      <h2>Get in Touch <span>📲</span></h2>
-      <p>If you have any questions, comments, or just want to say hi, feel free to reach out to me. <br>
-        You can contact me through: <br>
-        <table>
-          <tr>
-            <td align="center">
-              <a href="mailTo:pranavmehe14@gmail.com" target="_blank" rel="noopener">
-                <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" width="30" height="30">
-                <br>
-                Gmail
-              </a>
-            </td>
-            <td align="center">
-              <a href="https://www.linkedin.com/in/pranav-mehendale-287730212" onclick="window.open(this.href,'_blank');return false;">
-                <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
-                <br>
-                LinkedIn
-              </a>
-            </td>
-            <td align="center">
-              <a href="https://twitter.com/PM_Mehendale" rel="noopener">
-                <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30">
-                <br>
-                Twitter
-              </a>
-            </td>
-          </tr>
-        </table>
-        <br>I am always happy to chat about programming, technology, and anything in between.
-      </p>
-    </section>
+<h1 align="center">Hi, I'm Pranav 👋</h1>
+<p align="center">I build things with code — from apps and automation to infrastructure and cloud systems.</p>
 
+<p align="center">
+  <a href="https://github.com/pranavmm14"><img src="https://img.shields.io/badge/GitHub-pranavmm14-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/pranav-mehendale-287730212"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=pranavmm14&style=for-the-badge&color=0e75b6" alt="profile views" />
+</p>
 
-  </body>
-</html>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavmm14&theme=onedark&no-frame=true&no-bg=true&margin-w=8" alt="trophy" />
+</p>
 
+---
+
+### ⚡ What I'm into
+- Building useful software and side projects
+- DevOps, Cloud, SRE, and infrastructure automation
+- Security-minded engineering and secure delivery
+- Python scripting, Linux, Docker, Kubernetes, CI/CD
+
+### 🛠️ Tech I work with
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+### 🌱 Currently exploring
+- Platform engineering
+- Reliability and observability
+- Secure SDLC and security automation
+- Better ways to ship, monitor, and maintain software
+
+### 🚀 A few things I’ve worked on
+- Infrastructure and DevOps automation
+- Security scanning and pipeline integration
+- Cloud and container-based deployments
+- Data and dashboard projects
+- Python tools and automation scripts
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranavmm14&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavmm14&theme=react-dark&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+<p align="center">Thanks for stopping by ✨</p>
