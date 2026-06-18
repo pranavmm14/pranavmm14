@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=pranavmm14&style=for-the-badge&color=0e75b6" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavmm14&theme=onedark&no-frame=true&no-bg=true&margin-w=8" alt="trophy" />
-</p>
-
 ---
 
 ### ⚡ What I'm into
@@ -51,6 +47,12 @@
 - Cloud and container-based deployments
 - Data and dashboard projects
 - Python tools and automation scripts
+
+### 📌 Featured projects
+- **ShellDB** — cybersecurity framework for vulnerability scanning and encrypted reporting
+- **Acunetix Attendance Manager** — QR-based attendance system built with Python and Google Sheets API
+- **Electoral Bonds Dashboard** — analytics and visualization project
+- **Freelance Data Scraping Project** — large-scale scraping and automation
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pranavmm14&theme=tokyonight&hide_border=true" alt="streak stats" />
